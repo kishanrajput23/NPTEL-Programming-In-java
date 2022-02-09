@@ -13,10 +13,10 @@
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w3q2.png" alt="">
 
-- A.  ✅
-- B.  
-- C.  
-- D.  
+- a.  ✅
+- .  
+- c.  
+- d.  
 
 **3.**
 
@@ -77,17 +77,16 @@
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w3q9.png" alt="">
 
-- A.  
-- B.  ✅
-- C.  
-- D.  ✅
+- a.  
+- b.  ✅
+- c.  
+- d.  ✅
 
 **10.**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w3q10.png" alt="">
 
-- A.  ✅
-- B.  ✅
-- C.  ✅
-- D.  ✅
-
+- a.  ✅
+- b.  ✅
+- c.  ✅
+- d.  ✅
