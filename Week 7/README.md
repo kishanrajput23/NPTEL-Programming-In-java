@@ -32,8 +32,8 @@
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w7q4.PNG" alt="">
 
-- a.  
-- b.  ✅
+- a.  ✅
+- b.  
 - c.  
 - d.  
 
