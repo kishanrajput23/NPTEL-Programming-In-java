@@ -7,13 +7,13 @@
 - a.  
 - b.  
 - c.   
-- d.  
+- d.  ✅
 
 **2.**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w8q2n.PNG" alt="">
 
-- a.  
+- a.  ✅
 - b.  
 - c.  
 - d.  
@@ -23,7 +23,7 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w8q3.PNG" alt="">
 
 - a.  
-- b.  
+- b.  ✅
 - c.  
 - d.  
 
@@ -33,7 +33,7 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w8q4.PNG" alt="">
 
 - a.  
-- b.  
+- b.  ✅
 - c.  
 - d.  
 
@@ -42,7 +42,7 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w8q5.PNG" alt="">
 
 - a.  
-- b.  
+- b.  ✅
 - c.  
 - d.  
 
@@ -51,7 +51,7 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w8q6.PNG" alt="">
 
 - a.  
-- b.  
+- b.  ✅
 - c.  
 - d.  
 
@@ -60,7 +60,7 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs47/w8q7.PNG" alt="">
 
 - a.  
-- b.  
+- b.  ✅
 - c.  
 - d.  
 
@@ -71,7 +71,7 @@
 - a.  
 - b.  
 - c.  
-- d.  
+- d.  ✅
 
 **9.**
 
@@ -80,7 +80,7 @@
 - a.  
 - b.  
 - c.  
-- d.  
+- d.  ✅
 
 **10.**
 
@@ -88,5 +88,5 @@
 
 - a.  
 - b.  
-- c.  
+- c.  ✅
 - d.  
